@@ -1,6 +1,7 @@
 ---
 title: Traversals
 layout: default
-parent: DSA
+grand_parent: DSA
+parent: Binary Tree
 ---
 All traversals here!

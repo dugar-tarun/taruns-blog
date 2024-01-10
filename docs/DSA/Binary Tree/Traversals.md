@@ -1,7 +1,6 @@
 ---
 title: Traversals
 layout: default
-parent: Layout 
-grand_parent: Layout
+parent: DSA
 ---
 All traversals here!
